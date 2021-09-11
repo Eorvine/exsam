@@ -166,7 +166,7 @@ body main .freedom-container {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
-  background-image: url(./img/mount.png);
+  background-image: url(../img/mount.png);
   background-repeat: no-repeat;
   -webkit-box-pack: end;
       -ms-flex-pack: end;
@@ -578,112 +578,112 @@ body .location-container .previev-container .thalie .book-button, body .location
 }
 
 body .location-container .previev-container .thalie .previev-img-container {
-  background: url(./img/tha.png) no-repeat;
+  background: url(../img/tha.png) no-repeat;
   background-size: 100%;
   -webkit-transform: scale(1.2) translate(18px, 13px);
           transform: scale(1.2) translate(18px, 13px);
 }
 
 body .location-container .previev-container .thalie .previev-img-min-container .img-1 {
-  background: url(./img/tha-min-1.png) no-repeat;
+  background: url(../img/tha-min-1.png) no-repeat;
   background-size: 100%;
   -webkit-transform: scale(1.1) translate(0px, 17px);
           transform: scale(1.1) translate(0px, 17px);
 }
 
 body .location-container .previev-container .thalie .previev-img-min-container .img-2 {
-  background: url(./img/tha-min-2.png) no-repeat;
+  background: url(../img/tha-min-2.png) no-repeat;
   background-size: 100%;
   -webkit-transform: scale(1.1) translate(0px, 17px);
           transform: scale(1.1) translate(0px, 17px);
 }
 
 body .location-container .previev-container .thalie .previev-img-min-container .img-3 {
-  background: url(./img/tha-min-3.png) no-repeat;
+  background: url(../img/tha-min-3.png) no-repeat;
   background-size: 100%;
   -webkit-transform: scale(1.1) translate(0px, 17px);
           transform: scale(1.1) translate(0px, 17px);
 }
 
 body .location-container .previev-container .kapalua .previev-img-container {
-  background: url(./img/kapa.png) no-repeat;
+  background: url(../img/kapa.png) no-repeat;
   background-size: 100%;
   -webkit-transform: scale(1.3) translate(18px, 18px);
           transform: scale(1.3) translate(18px, 18px);
 }
 
 body .location-container .previev-container .kapalua .previev-img-min-container .img-1 {
-  background: url(./img/kapa-min-1.png) no-repeat;
+  background: url(../img/kapa-min-1.png) no-repeat;
   background-size: 100%;
   -webkit-transform: scale(1.15) translate(-10px, 17px);
           transform: scale(1.15) translate(-10px, 17px);
 }
 
 body .location-container .previev-container .kapalua .previev-img-min-container .img-2 {
-  background: url(./img/kapa-min-2.png) no-repeat;
+  background: url(../img/kapa-min-2.png) no-repeat;
   background-size: 100%;
   -webkit-transform: scale(1.25) translate(0px, 17px);
           transform: scale(1.25) translate(0px, 17px);
 }
 
 body .location-container .previev-container .kapalua .previev-img-min-container .img-3 {
-  background: url(./img/kapa-min-3.png) no-repeat;
+  background: url(../img/kapa-min-3.png) no-repeat;
   background-size: 100%;
   -webkit-transform: scale(1.15) translate(0px, 17px);
           transform: scale(1.15) translate(0px, 17px);
 }
 
 body .location-container .previev-container .agua .previev-img-container {
-  background: url(./img/agua.png) no-repeat;
+  background: url(../img/agua.png) no-repeat;
   background-size: 100%;
   -webkit-transform: scale(1.25) translate(-27px, 10px);
           transform: scale(1.25) translate(-27px, 10px);
 }
 
 body .location-container .previev-container .agua .previev-img-min-container .img-1 {
-  background: url(./img/agua-min-1.png) no-repeat;
+  background: url(../img/agua-min-1.png) no-repeat;
   background-size: 100%;
   -webkit-transform: scale(1.2) translate(-10px, 17px);
           transform: scale(1.2) translate(-10px, 17px);
 }
 
 body .location-container .previev-container .agua .previev-img-min-container .img-2 {
-  background: url(./img/agua-min-2.png) no-repeat;
+  background: url(../img/agua-min-2.png) no-repeat;
   background-size: 100%;
   -webkit-transform: scale(1.2) translate(-10px, 17px);
           transform: scale(1.2) translate(-10px, 17px);
 }
 
 body .location-container .previev-container .agua .previev-img-min-container .img-3 {
-  background: url(./img/agua-min-3.png) no-repeat;
+  background: url(../img/agua-min-3.png) no-repeat;
   background-size: 100%;
   -webkit-transform: scale(1.2) translate(-8px, 17px);
           transform: scale(1.2) translate(-8px, 17px);
 }
 
 body .location-container .previev-container .jaguar .previev-img-container {
-  background: url(./img/jaguar.png) no-repeat;
+  background: url(../img/jaguar.png) no-repeat;
   background-size: 100%;
   -webkit-transform: scale(1.2) translate(20px, 10px);
           transform: scale(1.2) translate(20px, 10px);
 }
 
 body .location-container .previev-container .jaguar .previev-img-min-container .img-1 {
-  background: url(./img/jaguar-min-1.png) no-repeat;
+  background: url(../img/jaguar-min-1.png) no-repeat;
   background-size: 100%;
   -webkit-transform: scale(1.2) translate(5px, 15px);
           transform: scale(1.2) translate(5px, 15px);
 }
 
 body .location-container .previev-container .jaguar .previev-img-min-container .img-2 {
-  background: url(./img/jaguar-min-2.png) no-repeat;
+  background: url(../img/jaguar-min-2.png) no-repeat;
   background-size: 100%;
   -webkit-transform: scale(1.1) translate(5px, 15px);
           transform: scale(1.1) translate(5px, 15px);
 }
 
 body .location-container .previev-container .jaguar .previev-img-min-container .img-3 {
-  background: url(./img/jaguar-min-3.png) no-repeat;
+  background: url(../img/jaguar-min-3.png) no-repeat;
   background-size: 100%;
   -webkit-transform: scale(1.3) translate(-8px, 15px);
           transform: scale(1.3) translate(-8px, 15px);
@@ -775,7 +775,7 @@ body .form-container {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
-  background-image: url(./img/mount.png);
+  background-image: url(../img/mount.png);
   background-repeat: no-repeat;
   background-size: 100%;
 }
