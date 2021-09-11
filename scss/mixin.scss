@@ -1,0 +1,119 @@
+
+@mixin flex-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+@mixin button($width){
+    background-color: $color-red;
+    border-radius: 15px;
+    color: $color-whit;
+    width: $width;
+    height: 30px;
+
+          
+    
+}
+@mixin article-size($height) {
+    width: 100%;
+    height: $height;
+    @include flex-center;
+    flex-direction: column;
+    
+}
+@mixin h {
+    
+    font-size: 40px;
+    font-weight: bold;
+    
+}
+@mixin group-container-img {
+
+    img{
+        width: auto;
+        height: 200;
+        @media screen and (max-width: 1200px) {
+            height: 150;
+        }
+    }
+    position: absolute;
+    z-index: -1;
+}
+@mixin previev-img-container {
+    width: 50%;
+    height: auto;
+    z-index: 1;
+    
+}
+@mixin previev-text-container {
+    @include flex-center;
+    flex-direction: column;
+    width: 50%;
+    height: 70%;
+    justify-content:space-between;
+    align-items: flex-start;
+    z-index: 2;
+    
+
+    
+}
+@mixin previev-icons {
+    @include flex-center;
+    justify-content: space-around;
+    width: 100%;
+    i{
+        margin-right:  5px;
+    }
+
+
+    
+    
+
+    
+}
+@mixin previev-img-min-container {
+    
+    width: 50%;
+    
+    height: 30%;
+    ul{
+        @include flex-center;
+        flex-direction: row;
+        width: 100%;
+        height: 100%;
+    }
+    li{
+        width: 33%;
+        height: 100%;
+        z-index: 2;
+
+    }
+    
+}
+@mixin previev-h {
+    font-weight: bold;
+    font-size: 17;
+    
+}
+@mixin previev-container-section {
+    background-color: $color-whit;
+    width: 40%;
+    height: 40%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    margin-left: 5%;
+    margin-top: 20px;
+    @media screen and (max-width: 1200px){
+        height: 20%;
+        width: 80%;
+        margin-top: 40px;
+        font-size: 10px;
+        margin-left: 0px;
+
+
+
+    }
+    
+}
+
