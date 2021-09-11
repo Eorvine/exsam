@@ -257,23 +257,23 @@ body{
                 }
                 .thalie{
                     .previev-img-container{ 
-                        background: url(../img/tha.png) no-repeat;
+                        background: url(./img/tha.png) no-repeat;
                         background-size: 100%;
                         transform:  scale(1.2) translate(18px, 13px);
                     }
                     .previev-img-min-container{
                         .img-1{
-                            background: url(../img/tha-min-1.png) no-repeat;
+                            background: url(./img/tha-min-1.png) no-repeat;
                             background-size: 100%;
                             transform:  scale(1.1) translate(0px,17px);                            
                         }
                         .img-2{
-                            background: url(../img/tha-min-2.png) no-repeat;
+                            background: url(./img/tha-min-2.png) no-repeat;
                             background-size: 100%;
                             transform:  scale(1.1) translate(0px,17px);
                         }
                         .img-3{
-                            background: url(../img/tha-min-3.png) no-repeat;
+                            background: url(./img/tha-min-3.png) no-repeat;
                             background-size: 100%;
                             transform: scale(1.1) translate(0px,17px);
                         }
@@ -284,23 +284,23 @@ body{
                 }
                 .kapalua{
                     .previev-img-container{ 
-                        background: url(../img/kapa.png) no-repeat;
+                        background: url(./img/kapa.png) no-repeat;
                         background-size: 100%;
                         transform:  scale(1.3) translate(18px, 18px);
                     }
                     .previev-img-min-container{
                         .img-1{
-                            background: url(../img/kapa-min-1.png) no-repeat;
+                            background: url(./img/kapa-min-1.png) no-repeat;
                             background-size: 100%; 
                             transform:  scale(1.15) translate(-10px,17px);                           
                         }
                         .img-2{
-                            background: url(../img/kapa-min-2.png) no-repeat;
+                            background: url(./img/kapa-min-2.png) no-repeat;
                             background-size: 100%;
                             transform:  scale(1.25) translate(0px,17px);
                         }
                         .img-3{
-                            background: url(../img/kapa-min-3.png) no-repeat;
+                            background: url(./img/kapa-min-3.png) no-repeat;
                             background-size: 100%;
                             transform:  scale(1.15) translate(0px,17px);
                         }
@@ -309,23 +309,23 @@ body{
                 }
                 .agua{
                     .previev-img-container{ 
-                        background: url(../img/agua.png) no-repeat;
+                        background: url(./img/agua.png) no-repeat;
                         background-size: 100%;
                         transform:  scale(1.25) translate(-27px,10px);
                     }
                     .previev-img-min-container{
                         .img-1{
-                            background: url(../img/agua-min-1.png) no-repeat;
+                            background: url(./img/agua-min-1.png) no-repeat;
                             background-size: 100%; 
                             transform:  scale(1.2) translate(-10px,17px);                           
                         }
                         .img-2{
-                            background: url(../img/agua-min-2.png) no-repeat;
+                            background: url(./img/agua-min-2.png) no-repeat;
                             background-size: 100%;
                             transform:  scale(1.2) translate(-10px,17px); 
                         }
                         .img-3{
-                            background: url(../img/agua-min-3.png) no-repeat;
+                            background: url(./img/agua-min-3.png) no-repeat;
                             background-size: 100%;
                             transform:  scale(1.2) translate(-8px,17px); 
                         }
@@ -334,23 +334,23 @@ body{
                 }
                 .jaguar{
                     .previev-img-container{ 
-                        background: url(../img/jaguar.png) no-repeat;
+                        background: url(./img/jaguar.png) no-repeat;
                         background-size: 100%;
                         transform:  scale(1.2) translate(20px, 10px);
                     }
                     .previev-img-min-container{
                         .img-1{
-                            background: url(../img/jaguar-min-1.png) no-repeat;
+                            background: url(./img/jaguar-min-1.png) no-repeat;
                             background-size: 100%;  
                             transform:  scale(1.2) translate(5px,15px);                           
                         }
                         .img-2{
-                            background: url(../img/jaguar-min-2.png) no-repeat;
+                            background: url(./img/jaguar-min-2.png) no-repeat;
                             background-size: 100%;
                             transform:  scale(1.1) translate(5px,15px); 
                         }
                         .img-3{
-                            background: url(../img/jaguar-min-3.png) no-repeat;
+                            background: url(./img/jaguar-min-3.png) no-repeat;
                             background-size: 100%;
                             transform:  scale(1.3) translate(-8px,15px); 
                         }
@@ -398,7 +398,7 @@ body{
         }
         .form-container{
             @include article-size(100vh);
-            background-image: url(../img/form.png);
+            background-image: url(./img/form.png);
             background-repeat: no-repeat;
             background-size: 100%;
             
